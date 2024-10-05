@@ -1,0 +1,23 @@
+Section 1 : Connaissances générales
+Bases du développement web
+le développementweb englobe la création de sites et application accessible en ligne; il est essentiel dans le contexte d'internet car il facilité à l'inforamtion favorise l'interattion. 
+  
+  
+Section 2 : Familiarité avec CSS  
+Connaissances HTML
+oui; HTML signifier ''Hyper text markuo language'' son principal objectif est de structurer le contenu des page web; en difinissant les élément comme les titres; les paragraphe; les image..
+  
+  
+Section 3 : JavaScript et son importance
+Introduction à JavaScript
+oui; CSS signifie ''Cascading style sheet'' il sert à styliser les page web en controlant; les polices et l'apprence générale.
+
+
+Section 4 : Introduction à React et Node.js
+Connaissance de React et Node.js
+
+
+Section 5 : Question bonus
+Intentions d'apprentissage
+je souhait apprendre le développement web pour transformer mes idées en projets concrets et pour commbiner créativité de technologie avec des compétence en HTML;css;Javascript;react et node.js 
+j'espere crées des application qui  répondent aux besoins des utilisateur et améliorer quatidient.
