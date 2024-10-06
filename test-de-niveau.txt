@@ -1,20 +1,25 @@
 Section 1 : Connaissances générales
 Bases du développement web
 le développementweb englobe la création de sites et application accessible en ligne; il est essentiel dans le contexte d'internet car il facilité à l'inforamtion favorise l'interattion. 
-  
-  
-Section 2 : Familiarité avec CSS  
+
+
 Connaissances HTML
 oui; HTML signifier ''Hyper text markuo language'' son principal objectif est de structurer le contenu des page web; en difinissant les élément comme les titres; les paragraphe; les image..
   
   
+Section 2 : Familiarité avec CSS
+Compréhension de CSS
+oui; CSS signifie ''Cascading style sheet'' il sert à styliser les page web en controlant; les polices et l'apprence générale.
+
+
 Section 3 : JavaScript et son importance
 Introduction à JavaScript
-oui; CSS signifie ''Cascading style sheet'' il sert à styliser les page web en controlant; les polices et l'apprence générale.
+oui; JavaScript est un langage de programmation permettant d'ajouter interactivité et dynamisme aux sites web. Il est essentiel pour manipuler le contenu, répondre aux actions des utilisateurs et améliorer l'expérience globale.
 
 
 Section 4 : Introduction à React et Node.js
 Connaissance de React et Node.js
+Oui, React est une bibliothèque JavaScript pour construire des interfaces utilisateur, tandis que Node.js est un environnement d'exécution pour exécuter JavaScript côté serveur, facilitant le développement d'applications web complètes.
 
 
 Section 5 : Question bonus
